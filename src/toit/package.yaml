@@ -1,0 +1,7 @@
+dependencies:
+  dps368:
+    url: github.com/Informaticore/toit-dps368
+    version: ^1.1.0
+  ringbuffer:
+    url: github.com/Informaticore/toit-ringbuffer
+    version: ^1.0.0

@@ -1,0 +1,12 @@
+prefixes:
+  dps368: toit-dps368
+  ringbuffer: toit-ringbuffer
+packages:
+  toit-dps368:
+    url: github.com/Informaticore/toit-dps368
+    version: 1.1.0
+    hash: f79f3777469aedfece1830f80900c714a34697ad
+  toit-ringbuffer:
+    url: github.com/Informaticore/toit-ringbuffer
+    version: 1.0.0
+    hash: 5c41689acb0ed342a5da4716f6d0af86193d82fb
