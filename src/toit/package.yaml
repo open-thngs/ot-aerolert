@@ -2,6 +2,12 @@ dependencies:
   dps368:
     url: github.com/Informaticore/toit-dps368
     version: ^1.1.0
+  mqtt:
+    url: github.com/toitware/mqtt
+    version: ^2.2.0
+  ntp:
+    url: github.com/toitlang/pkg-ntp
+    version: ^1.0.0
   ringbuffer:
     url: github.com/Informaticore/toit-ringbuffer
     version: ^1.0.0

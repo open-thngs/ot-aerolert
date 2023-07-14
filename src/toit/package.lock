@@ -1,7 +1,18 @@
+sdk: ^2.0.0-alpha.35
 prefixes:
   dps368: toit-dps368
+  mqtt: mqtt
+  ntp: pkg-ntp
   ringbuffer: toit-ringbuffer
 packages:
+  mqtt:
+    url: github.com/toitware/mqtt
+    version: 2.2.0
+    hash: 74eabce1f3056b90c4528f48fb585aa9ff286fbe
+  pkg-ntp:
+    url: github.com/toitlang/pkg-ntp
+    version: 1.0.0
+    hash: 1c3cc4a4819f459393f00efc576f66f838665719
   toit-dps368:
     url: github.com/Informaticore/toit-dps368
     version: 1.1.0
